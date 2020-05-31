@@ -1,0 +1,104 @@
+.xi{
+	width: 1020px;
+	margin: auto;
+	margin-top: 15px;
+}
+.biao{
+	height: 50px;
+	line-height: 50px;
+	width: 1020px;
+	margin: 0px;
+	font-size: 17px;
+	position: relative;
+
+}
+.biao span{
+	position: absolute;
+	right: 20px;
+	color: #b1b1b1;
+	font-size: 13px;
+}
+.biao a{
+	text-decoration: none;
+	color: #b1b1b1;
+}
+.biao a:hover{
+	color: #3697ff;
+}
+.da{
+	width: 1020px;
+	overflow: hidden;
+}
+.xiao{
+	float: left;
+	width: 188px;
+	height: 240px;
+	margin-right: 20px;
+	position: relative;
+	background: white;
+}
+#te1,#te2{
+	margin-right: 0px;
+}
+.duan{
+	font-size: 13px;
+	font-weight: normal;
+	padding: 0px;
+	margin: 20px 3px 0px 12px;
+}
+.hang{
+	font-size: 10px;
+	margin-left: 12px;
+	color: grey;
+	position: absolute;
+	bottom: 15px;
+}
+.hang span{
+	color: red;
+}
+#da{
+	margin-top: 20px;
+}
+
+
+
+
+#b2{
+	margin-top: 15px;
+}
+.position{
+	position: relative;
+}
+.xi ul{
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+	overflow: hidden;
+	width: 360px;
+	position: absolute;
+	left: 366px;
+	top: 18px;
+	font-size: 14px;
+}
+.xi li{
+	float: left;
+	margin-right: 50px;
+	color: grey;
+}
+.position a{
+	text-decoration: none;
+	color: grey;
+}
+.position a:hover{
+	color: #00a4ff;
+}
+#bie{
+	margin-right: 0px;
+}
+.xiao a{
+	text-decoration: none;
+	color: black;
+}
+.xiao a:hover{
+	color: #00a4ff;
+}

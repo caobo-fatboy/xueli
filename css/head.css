@@ -1,0 +1,33 @@
+.head{
+	background: #1c036c;
+	height: 276px;
+}
+.zhong{
+	width: 1020px;
+	height: 276px;
+	margin: auto;
+}
+.lie{
+	list-style: none;
+	margin: 0px;
+	padding: 8px 0px 7px 10px;
+	float: left;
+	background: #14024b;
+}
+.lie li{
+	font-size: 14px;
+	margin-top: 10px;
+	width: 146px;
+	position: relative;
+}
+.lie span{
+	position: absolute;
+	right: 10px;
+}
+.lie a{
+	text-decoration: none;
+	color: white;
+}
+.lie a:hover{
+	color: #00a4ff;
+}

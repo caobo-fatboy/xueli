@@ -1,0 +1,49 @@
+.ren{
+	width: 1020px;
+	margin: auto;
+	margin-top: 15px;
+	overflow: hidden;
+}
+.ti{
+	height: 50px;
+	line-height: 50px;
+	width: 1020px;
+	margin: 0px;
+	font-size: 17px;
+	margin: auto;
+}
+.biyeji{
+	float: left;
+}
+.tupian{
+	margin-left: 20px;
+	float: left;
+	position: relative;
+}
+.touming{
+	position: absolute;
+	bottom: 3px;
+	background: rgba(0,0,0,0.5);
+	color: white;
+}
+.p1{
+	font-size: 16px;
+	font-weight: bold;
+	margin: 5px 5px 0px 5px;
+}
+.p1 span{
+	font-size: 14px;
+	font-weight: normal;
+}
+.p2{
+	font-size: 13px;
+	margin: 2px 5px 5px 5px;
+	text-align: justify;
+}
+.touming a{
+	text-decoration: none;
+	color: white;
+}
+.touming a:hover{
+	color: blue;
+}

@@ -1,0 +1,51 @@
+.white{
+	background: white;
+	margin-top: 60px;
+}
+.mowei{
+	width: 1020px;
+	margin: auto;
+	padding: 100px 0px 100px 20px;
+	overflow: hidden;
+}
+.xiaoxueli{
+	font-size: 30px;
+	color: #00a4ff;
+	font-weight: bold;
+	margin: 0px;
+	width: 120px;
+	margin-bottom: 32px;
+}
+.ziti{
+	font-size: 12px;
+}
+.xiazai{
+	border: 1px solid #00a4ff;
+	width: 110px;
+	height: 40px;
+	background: white;
+	color: #00a4ff;
+	font-size: 15px;
+	margin-top: 22px;
+}
+.left,.right{
+	float: left;
+}
+.right{
+	margin-left: 120px;
+}
+.right p{
+	font-size: 12px;
+	margin: 8px 0px;
+}
+.right .biaoti{
+	font-size: 16px;
+	margin: 8px 0px 16px 0px;
+}
+.mowei a{
+	text-decoration: none;
+	color: black;
+}
+.mowei a:hover{
+	color: #00a4ff;
+}

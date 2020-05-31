@@ -1,0 +1,43 @@
+.daohang{
+	background: white;
+	overflow: hidden;
+	height: 50px;
+	width: 1020px;
+	margin: auto;
+	margin-top: 8px;
+	font-size: 15px;
+	position: relative;
+}
+.daohang ul{
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+	float: left;
+	margin-top: 15px;
+}
+.daohang li{
+	border-right: 1px solid grey;
+	float: left;
+	padding: 0px 30px;
+}
+.daohang .end{
+	border: none;
+	padding: 0px 20px;
+}
+.daohang p{
+	float: left;
+	margin: 0px;
+	margin-top: 15px;
+	position: absolute;
+	right: 30px;
+}
+.daohang a{
+	text-decoration: none;
+	color: black;	
+}
+.daohang a:hover{
+	color: #00a4ff;
+}
+.daohang .p{
+	color: #00a4ff;
+}
